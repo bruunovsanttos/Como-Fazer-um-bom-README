@@ -20,6 +20,14 @@ Mas para deixar um projeto mais atrativo podemos utilizar também:
 * Indice
 * Emojis
 
+## Como Fazer:
+
+Temos duas formas bem peculiares de como fazer um Readme, a primeira e eu recomendo para os iniciantes é de pedir para o ChatGPT ou utilizar o site [Readme.so](https://readme.so/pt) que eles vão criar automaticamente para você um readme e é so copiar e colar.  
+Agora se você como eu já tem alguma experiencia mesmo que rasa em elaborar codigos eu aconselho você mesmo editar seu README com a linguagem de marcação.  
+Aqui eu vou trazer um pouco do que aprendi para ajudar você a criarem o README.
+
+### Titulos
+Os titulos são importantes para mencionar novas abas no seu readme, separando e organizando eles de forma consiza. PAra adicionar titulos Utiizamos o simbolo #.
 
 
 
