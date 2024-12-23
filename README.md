@@ -2,6 +2,23 @@
 A algum tempo me surgiu a ideia de ajudar a comunidade de alguma forma retribuindo o que ei estou aprendendo.  
 Assim decidi ajudar da forma que eu posso ajudando vocês a criarem um README.
 
+# Indice
+
+* [O que é](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#o-que-%C3%A9-)
+* [Estrutura](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#estrutura)
+* [Como fazer](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#como-fazer)
+* [Quebra de linhas](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#quebras-de-linha)
+* [Títulos](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#titulos)
+* [Negrito](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#negrito)
+* [Itálico](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#it%C3%A1lico)
+* [Criar Tópicos](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#criar-t%C3%B3picos)
+* [Tabelas](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#tabelas)
+* [Links](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#links)
+* [Menções](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#men%C3%A7%C3%B5es)
+* [Badges](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#badges)
+* [Imagens](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#imagens)
+* [Bônus](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README?tab=readme-ov-file#b%C3%B4nus)
+
 ## O que é :  
 O README é a porta de entrada de qualquer Repositório que você criou ou vai criar na sua jornada. O README esta em uma linguagem chamada **_markdown_** que é uma linguagem de marcação para formatação de textos. Para saber mais deixo um artigo aqui para caso sua curiosidade se aguçe você possa entender mais sobre a hitória do [Markdown](https://pt.wikipedia.org/wiki/Markdown)  
 Aqui no GitHub utilizamos muito ela para documentar nossos projetos e explicar o que nosso codigo faz.
@@ -158,6 +175,8 @@ Então quanto mais atraente e mais estilizado por você mesmo melhor será para 
 Para estilizar com varios status que são importantissimos eu deixo aqui um repositório que tem varios estatus para mostrar logo na pagina inicial.
 
 [GithubStatus de anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
+
+
 
 
 
