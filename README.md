@@ -32,7 +32,7 @@ As repetições deixam o tamanho maior ou menor, tudo começando do # para Titui
 
 # Título 
 ## Título
-### Tírulo 
+### Título 
 #### Título
 
         para os títulos acima utilizamos o codigo :
@@ -90,10 +90,28 @@ Vejam abaixo:
 Para a criação de links devemos utilziar [] () onde dentro dos colchetes colocamos a descriação, a palavra ou o nome que você deseja dar ao link e em seguida dentro dos parenteses o link que você quer que as pessoas sigam.  
 Exemplo:
 
-[Link do Repositório sobre README](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README) Este linke vai te levar para o repositório que estamos vendo no momento.
+[Link do Repositório sobre README](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README) Este link vai te levar para o repositório que estamos vendo no momento.
 
         Para criar o link você deve utilizar:
         [Link do Repositório sobre README](https://github.com/bruunovsanttos/Como-Fazer-um-bom-README)
+
+## Menções
+PAra cirar menções temos duas formas. 
+A primeira é utilizando 8 espaços ou dois tabs
+
+        para criar essa menção:
+        utilizar dois taps ou oito espaços 
+
+A segunda forma é utilizar ` ascentos ou ~ o ascento tio para uma linha ou apenas uma palavra, para a criação de multiplas linhas utilziamos tres vezes seguidas os ascentos. 
+
+~~~ menção de codigo ~~~~
+aqui temos uma mensão que utilizamos os ascentos ~~~
+utilizando o codigo :
+~~~~ menção de codigo
+e fechando ~~~~
+~~~
+
+
         
 
 
