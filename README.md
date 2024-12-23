@@ -24,7 +24,18 @@ Mas para deixar um projeto mais atrativo podemos utilizar também:
 
 Temos duas formas bem peculiares de como fazer um Readme, a primeira e eu recomendo para os iniciantes é de pedir para o ChatGPT ou utilizar o site [Readme.so](https://readme.so/pt) que eles vão criar automaticamente para você um readme e é so copiar e colar.  
 Agora se você como eu já tem alguma experiencia mesmo que rasa em elaborar codigos eu aconselho você mesmo editar seu README com a linguagem de marcação.  
-Aqui eu vou trazer um pouco do que aprendi para ajudar você a criarem o README.
+Aqui eu vou trazer um pouco do que aprendi para ajudar você a criarem o README.  
+
+## Quebras de linha
+Talvez a mais simples de todas as formatações e a mais procurada:  
+A quebra de linha !!  
+E apra efetua-la e so você colocar dois espaços e enter.
+
+        Como utilizar:
+        para a quebra de linha devemos utilizar dois espaços (  )
+        e apertar enter para descermos, se você não colocar dois 
+        espaços a linha não quebra e parecer que você quer escrever 
+        tudo em uma linha só.
 
 ## Titulos
 Os titulos são importantes para mencionar novas abas no seu readme, separando e organizando eles de forma consiza. PAra adicionar titulos Utiizamos o símbolo #.  
@@ -110,6 +121,44 @@ utilizando o codigo :
 ~~~~ menção de codigo
 e fechando ~~~~
 ~~~
+
+
+## Badges
+Os Badges são imagens que dão vida ao repositório dando uma estilização nas coisas que você coloca como por exemplo:  
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+Eles ajudam a estilizar e dar uma vida diferente ao seu conteudo do README.
+
+Vou deixar aqui dois links para vocês:
+
+[Link do Repositório de Badges Ileriayo](https://github.com/Ileriayo/markdown-badges)  
+
+[Link do Repositório de Badges gr-tsx](https://github.com/gr-tsx/markdown-badges)
+
+## Imagens
+
+Para adicionar imagens ao seu README também e deixar ele com a sua cara, utilizamos a mesma formatação de link mas com um adendo o simbolo de ! na frente da formataçao de link:
+
+![Imagen do profile GitHub de bruunovsanttos](img.png)
+
+        Para a formatação utilizamos:
+        ![Descrição da imagem para leitura de cegos](link da imagem)
+        ** Para uma melhor formação de imagem e leitura para cegos automatica
+        é sempre importante preencher a descrição da imagem com o que ela representa
+        pois a leitura automática vai ler e descrever o que a imagem mostra. 
+
+
+## Bônus
+
+Se você cegou até aqui parabéns você aprendeu a criar um README com várias formatações e ideias. 
+Sabemos que o repositório com o nome do seu usuário do GitHub no meu caso [bruunovsanttos](https://github.com/bruunovsanttos) é o repositório MAIS IMPORTANTE do seu github onde você coloca as informações e aparecem na pagina pricipal do seu profile do Github.  
+Então quanto mais atraente e mais estilizado por você mesmo melhor será para a sua boa apresentação quando recrutadores abrirem seu perfil.
+
+Para estilizar com varios status que são importantissimos eu deixo aqui um repositório que tem varios estatus para mostrar logo na pagina inicial.
+
+[GithubStatus de anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
+
 
 
         
