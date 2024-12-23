@@ -78,7 +78,6 @@ Para adicionarmos palavras em negrito utilizamos dois asteriscos ** no inicio e 
         **negrito**  
 
 ## Itálico 
-## Itálico 
 Para utilizarmos palavras em itálico utilizamos _ (underline) como m negrito utilizamos o asterisco. Sempre abrindo e fechando a palavra que queremos deixar estilizada.
 
 _Itálico_
